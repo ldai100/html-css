@@ -1,0 +1,27 @@
+h1{
+	text-align:center;
+}
+h2{
+	text-align:center;
+}
+
+.titles {
+	font-family:"Georgia";
+}
+
+#main{
+	line-height:19px;
+}
+
+.upper{
+	text-transform: uppercase;
+}
+
+a:link{
+	text-decoration: none;
+}
+
+a:hover{
+	color: blue;
+	text-decoration: underline;
+}

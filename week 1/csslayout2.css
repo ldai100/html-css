@@ -1,0 +1,25 @@
+
+.x{
+	width: 250px;
+	display: inline;
+	border: solid green 1px;
+	float:left;
+	background-color: blue;
+}
+
+.y{
+	width: 250px;
+	display:inline-block;
+	border: solid green 1px;
+	clear:right;
+	background-color: red;
+}
+.z{
+	width: 250px;
+	display:block;
+	border: solid green 1px;
+}
+.v{
+	width: 250px;
+	border: solid green 1px;
+}

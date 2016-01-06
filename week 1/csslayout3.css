@@ -1,0 +1,16 @@
+
+img{
+	float:right;
+}
+
+
+.x{
+	display:inline-block;
+	float:left;
+	margin:0px;
+
+}
+.y{
+	display:inline;
+	
+}

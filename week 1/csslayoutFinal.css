@@ -1,0 +1,20 @@
+.head{
+	text-align: center;
+}
+
+.fb{
+	width:50px;
+	position:fixed;
+	top:50px;
+}
+
+/* to make both page according to the requirement*/
+body{  
+	margin:0 auto;
+	width: 900px;
+}
+
+.dog{
+	width:500px;
+	float:left;
+}
